@@ -36,3 +36,5 @@ Thumbs.db
 # Local scratch/output folders in this project
 output/
 tmp/
+tmp_pdf_extract.txt
+.vsconfig
